@@ -1,0 +1,91 @@
+.main-box{
+    width: 100%;
+    height: 100px;
+    background :#3b5998;
+}
+body{
+    margin: 0%;
+    font-family:Arial, Helvetica, sans-serif
+} 
+
+.heading{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 150px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+.logo{
+    width: 50%;
+    padding-top: 45px;
+    float: left;
+}
+.login{
+    width: 39%;
+    margin-left: 60%;
+    padding-top: 33px;
+}
+.login-button{
+    color: white;
+    border-color: #29487d;
+    
+}
+.login-button-color{
+    background:#4267b2;
+    color: white;
+    border-color: #29487d;
+
+}
+.font-size{
+    font-size: 11px;
+}
+.forgotten-color{
+    color: #9cb4d8;
+    font-size: 12px;
+    cursor: pointer;
+}
+.login-button-color:hover{
+    background: red;
+
+}
+.note{
+    padding-top: 25px;
+    margin-left: 150px;
+}
+.right{
+    width: 50%;
+    float: left;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 650px;
+}
+.image{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 80%;
+    height: 270px;
+}
+.note {
+    margin-left: 150px;
+    margin-top: 30px;
+} 
+.Birthday{
+   color: gray;
+}
+.p-color{
+    color: blue;
+}
+.signup-color{
+    background: green;
+    color: white;
+}
+
